@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hell World</Title>
-      <h1>Hello world!</h1>
+      <h1>Hell world!</h1>
       <Counter />
       <p>
         Visit{" "}
